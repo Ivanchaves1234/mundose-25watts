@@ -1,0 +1,22 @@
+{
+  "name": "25watts",
+  "version": "1.0.0",
+  "description": "proyecto 25Watts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanchaves1234/mundose-25watts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanchaves1234/mundose-25watts/issues"
+  },
+  "homepage": "https://github.com/Ivanchaves1234/mundose-25watts#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
